@@ -56,8 +56,5 @@ public class InputAndArithmeticOperators {
 
     System.out.println(c/d);
     //Output: 2.5
-
-
-
     }
 }
